@@ -22,7 +22,6 @@ npm install --save react-embedded-animations
 import React, { Component } from 'react'
 
 import { Animated, TRANSITIONS } from 'react-embedded-animations'
-import 'react-embedded-animations/dist/index.css'
 
 class Example extends Component {
   render() {
