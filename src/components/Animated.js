@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Transition } from 'react-transition-group'
 import unique from 'uniqid'
-import { getTransition } from '../helpers/transitions'
+import { getTransition } from '../helpers'
 
 export const Animated = ({ animation, duration, delay, easing, children }) => {
   const containerId = unique()

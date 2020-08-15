@@ -2,6 +2,7 @@
 
 > React library to use animations on embedded experiences where the use of !important in the CSS is required.
 
+
 ## When to use it
 
 On most case this library shouldn't be used, used only if:
